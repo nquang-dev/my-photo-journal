@@ -159,16 +159,3 @@ Dự án không yêu cầu environment variables đặc biệt. Tất cả cấu
 - Kiểm tra quyền storage của ứng dụng
 - Xóa cache và data của ứng dụng, sau đó thử lại
 
-## Đóng góp
-
-Để đóng góp cho dự án:
-
-1. Fork repository
-2. Tạo feature branch
-3. Commit các thay đổi
-4. Push lên branch
-5. Tạo Pull Request
-
-## License
-
-Dự án này được phát triển cho mục đích học tập và nghiên cứu.
